@@ -1,8 +1,8 @@
 {
-  "version": "1.4.1",
-  "tag": "v1.4.1",
+  "version": "1.5.0",
+  "tag": "v1.5.0",
   "releasedAt": "2026-11-16",
-  "releaseUrl": "https://github.com/angelolockdev/omniflow/releases/tag/v1.4.1",
-  "downloadUrl": "https://github.com/angelolockdev/omniflow/releases/download/v1.4.1/omniflow-extension-v1.4.1.zip",
-  "firefoxDownloadUrl": "https://github.com/angelolockdev/omniflow/releases/download/v1.4.1/omniflow-firefox-v1.4.1.zip"
+  "releaseUrl": "https://github.com/angelolockdev/omniflow-releases/releases/tag/v1.5.0",
+  "downloadUrl": "https://github.com/angelolockdev/omniflow-releases/releases/download/v1.5.0/omniflow-extension-v1.5.0.zip",
+  "firefoxDownloadUrl": "https://github.com/angelolockdev/omniflow-releases/releases/download/v1.5.0/omniflow-firefox-v1.5.0.zip"
 }
